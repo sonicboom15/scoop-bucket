@@ -1,0 +1,22 @@
+{
+    "version": "0.0.2",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/sonicboom15/daimon/releases/download/v0.0.2/daimon_0.0.2_windows_amd64.zip",
+            "bin": [
+                "daimon.exe"
+            ],
+            "hash": "6cc99e7bc9f64ae412c26ea87ae41b72f0153e67cb412b8982d460322105de64"
+        },
+        "arm64": {
+            "url": "https://github.com/sonicboom15/daimon/releases/download/v0.0.2/daimon_0.0.2_windows_arm64.zip",
+            "bin": [
+                "daimon.exe"
+            ],
+            "hash": "fb245353a0771b6c8344d9b4a1082b5c08a61b79a4e5fa70e6e2343b6eb085d6"
+        }
+    },
+    "homepage": "https://github.com/sonicboom15/daimon",
+    "license": "Apache-2.0",
+    "description": "The spirit that runs alongside your AI app — a pluggable sidecar runtime for LLMs"
+}

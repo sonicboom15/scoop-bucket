@@ -6,14 +6,14 @@
             "bin": [
                 "daimon.exe"
             ],
-            "hash": "6519d13a96efadbbb75637fb7184d96489353bb4848261fd8d985b3c28d9a05d"
+            "hash": "a7ed52e5be75d8400821c1677ec13972719a5f8c1652558ad79640f849e30fe8"
         },
         "arm64": {
             "url": "https://github.com/sonicboom15/daimon/releases/download/v0.0.3/daimon_0.0.3_windows_arm64.zip",
             "bin": [
                 "daimon.exe"
             ],
-            "hash": "57591817b4e977f02df7d513231878b1a87eee61977148777ac7078175101c91"
+            "hash": "471f955441cb2ea8195c7af12125834b1cfd62672a5d8e17495fc515f87cb645"
         }
     },
     "homepage": "https://github.com/sonicboom15/daimon",

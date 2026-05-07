@@ -1,19 +1,19 @@
 {
-    "version": "0.1.0",
+    "version": "0.2.2",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/sonicboom15/daimon/releases/download/v0.1.0/daimon_0.1.0_windows_amd64.zip",
+            "url": "https://github.com/sonicboom15/daimon/releases/download/v0.2.2/daimon_0.2.2_windows_amd64.zip",
             "bin": [
                 "daimon.exe"
             ],
-            "hash": "231634d92cf9a6037f50e5ee22f17eab8e6aebf7271339324606f05a50cf41a3"
+            "hash": "676bcdd02d685c15c44e86cbda5af7bcf2481fd483c93f16fdc6893d006581e6"
         },
         "arm64": {
-            "url": "https://github.com/sonicboom15/daimon/releases/download/v0.1.0/daimon_0.1.0_windows_arm64.zip",
+            "url": "https://github.com/sonicboom15/daimon/releases/download/v0.2.2/daimon_0.2.2_windows_arm64.zip",
             "bin": [
                 "daimon.exe"
             ],
-            "hash": "5796eea643b714080505f4b27b9bd31a621a3290edcb6368396dcf56fb3b1c63"
+            "hash": "bcf86a117ca0dc7cc51330a9974746561245c1aaee9d7cea9c6be06ec9582b60"
         }
     },
     "homepage": "https://github.com/sonicboom15/daimon",
